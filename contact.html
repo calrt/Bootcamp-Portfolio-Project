@@ -25,9 +25,15 @@
     </div>
     <div class="widecontent">
       <h1>Contact Me</h1>
-      <p>I'm <strong>Callum Thompson</strong>, a junior full-stack developer based in Melbourne, Australia.</p>
-      <p>After completing my Bachelor of Commerce back in NZ in 2015 I’ve gained experience as an analyst and in sales and am now pursuing a career in web development.</p>
-      <p>My goal is to make an impact by helping to find solutions to the problems we face as a society.</p>
+      <form name="contact" method="POST" netlify>
+        <p><label for="name">Name:</label></p>
+        <p><input type="text" name="name" /></p>
+        <p><label for="email">Email:</label></p>
+        <p><input type="text" name="email" /></p>
+        <p><label for="message">Message:</label></p>
+        <p><input type="textarea" name="message" /></p>
+        <p><button type="submit" class="sendemail">Send</button></p>
+      </form>
     </div>
   </div>
 </body>
