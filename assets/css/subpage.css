@@ -171,10 +171,25 @@ li {
 
 @media (max-width: 991.98px) { 
   .widecontent {
+    display: grid;
+    grid-area: 3 / 2 / 4 / 4;
+    width: 450px;
+    animation: fadein 2s;
+    justify-self: left;
+  }
+}
+
+@media (max-width: 991.98px) { 
+  .widecontent {
   grid-area: 2 / 2 / 4 / 4;
   padding-top: 50px;
   max-width: 450px;
+  width: 100%;
   }
+}
+
+form {
+  animation: fadein 2s;
 }
 
 @media (min-width: 991.98px) { 
