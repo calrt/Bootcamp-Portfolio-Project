@@ -188,7 +188,7 @@ li {
 
 @media (min-width: 991.98px) { 
   form input[type=textarea]{
-    width: 100%;
+    width: 95%;
     height: 5em;
     font-size: 1em;
   }
@@ -196,10 +196,20 @@ li {
 
 .sendemail {
   font-size: 1em;
-  background: none;
-  border: 1px solid #000;
+  background: #7B9F7B;
   padding: 10px;
   align-self: right;
+  color: #ffffff;
+  transition: .2s;
+}
+
+.sendemail:hover {
+  font-size: 1em;
+  background: #587658;
+  padding: 10px;
+  align-self: right;
+  cursor: pointer;
+
 }
 
 h1 {
@@ -208,4 +218,6 @@ h1 {
 
 p {
   color: #3A3A3A;
+  padding-left: 0px;
+  padding-right: 0px;
 }
