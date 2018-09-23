@@ -48,7 +48,7 @@ The target audience of this project is potential employers as well as other deve
 - A key part of my decision making during the process was that I wanted to keep things simple so that I would be able to utilise my knowledge while also challenging myself through the use of new CSS technologies such as grid.
 - I then spent the next 3 days working on creating the site using HTML and CSS while also tweaking my initial design so that it was as functional as possible. I also made sure that the design was responsive across multiple different screen resolutions.
 
-![Trello](/assets/img/trello.png)
+![Trello](/assets/img/trello.png)  
 I utilised Trello to ensure that I had broken down the project into achievable tasks.
 
 ### Additional Information  
