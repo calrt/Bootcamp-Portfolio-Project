@@ -50,22 +50,3 @@ The target audience of this project is potential employers as well as other deve
 
 ![Trello](/assets/img/trello.png)  
 I utilised Trello to ensure that I had broken down the project into achievable tasks.
-
-### Additional Information  
-  
-Describe key events in the development of the internet from the 1980s to today (max. 150 words)  
-  
-> In the 80s there was a limited network called the Internet Protocol (IP) that allowed computers to communicate around the world. However, it was not like the internet is today and was mostly intended for data sharing between scientists. In 1991 Tim Burners-Lee invented the world wide web which was a network of information accessible to anyway with an internet connection. Web browsers with GUI only became available in 1992 and from there more GUI web browsers became available and made surfing the web popular.  
->
-> Dial-up internet came about in the early 90s and information was transferred over telephone line (meaning either the phone or the internet were able to be used at one time). From there newer technologies such as broadband and fibre optics have been developed to further increase the speed of data transfer and number of users on a single connection at any one time.
-
-Define and describes the relationship between fundamental aspects of the internet such as: domains, web servers, DNS, and web browsers (max. 150 words)
-
-> Domains are names assigned to IP addresses so that people can navigate to them easily. However, it is only through using a DNS that we can search for websites in a web browser and reach the websites IP address (and therefore see the content on the website). 
-> 
-> Web servers contain the content of a website (including file types like HTML and CSS) so that we can view them in our browser.
-
-Reflect on one aspect of the development of internet technologies and how it has contributed to the world today (max. 150 words)
-> The introduction of 4G mobile internet has transformed how we use the internet today. Prior to 4G we were limited mostly to relatively slow 3G connections or wired or short-distance wireless connections through WiFi.  
-> 
-> Given that we have now been able to cut the cord, it has opened up the opportunity for us to use the internet and phones where ever. This has meant the ability for apps like Google Maps and Uber are now possible and also commonplace.
